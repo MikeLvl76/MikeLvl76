@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-My name is Mickael Louvel and I was an IT student at [Université Le Havre Normandie](https://www.univ-lehavre.fr/)</br>
+Former IT student at [Université Le Havre Normandie](https://www.univ-lehavre.fr/)</br>
 
 <details open>
   <summary><b>Github stats</b></summary>
