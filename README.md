@@ -5,7 +5,7 @@ Former IT student at [Université Le Havre Normandie](https://www.univ-lehavre.f
 <details open>
   <summary><b>Links</b></summary>
   <br/>
-  Click <a href="https://portfolio-two-rose-74.vercel.app/">here</a> to see my portfolio
+  Portfolio: click <a href="https://portfolio-two-rose-74.vercel.app/">here</a>
 </details>
 
 <details>
